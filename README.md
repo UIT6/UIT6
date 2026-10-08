@@ -1,21 +1,16 @@
-# Hi, I'm Yuetong.
-
-MSc Computer Science student at University College Dublin, interested in
-backend systems, APIs and building useful products around real-world problems.
-
 ## Selected work
 
 ### ItsAPlan
 Social planning application built with Django REST, FastAPI, recommendation
 services and calendar integrations.
 
-[Live site ↗](https://itsaplanofficial.com) · [GitHub ↗](https://github.com/hansel-3/COMP30830-Project-Group3)
+[Live site ↗](https://itsaplanofficial.com)
 
 ### Dublin Bikes
 Flask + MySQL bike-sharing application using real-time station data,
 weather integration and availability prediction.
 
-[GitHub ↗](https://github.com/UIT6/City-Bike-Analytics-System)
+[GitHub ↗](https://github.com/hansel-3/COMP30830-Project-Group3)
 
 ### Urban Mobility Simulation
 Python OOP simulation modelling 5,000+ daily commuters to explore traffic flow,
