@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Yuetong.
 
-<!--
-**UIT6/UIT6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Computer Science student at University College Dublin.
 
-Here are some ideas to get you started:
+I enjoy building software around real-world problems — from social planning
+and recommendation workflows to urban mobility data and backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently based in Dublin.
+
+## Selected work
+
+### ItsAPlan
+A social planning application for busy young professionals.
+
+Worked across backend development, APIs, testing, recommendation services
+and product delivery using Django REST, FastAPI and external calendar integrations.
+
+### Dublin Bikes
+A bike-sharing web application built with Python, Flask and MySQL.
+
+Worked with real-time station availability, weather data, prediction workflows,
+Google Maps integration and AWS deployment.
+
+### Urban Mobility Simulation
+A Python-based simulation exploring commuter behaviour and urban mobility systems.
+
+## Currently
+
+- MSc Computer Science @ UCD
+- Learning more about backend systems and distributed systems
+- Practising algorithms and problem solving
+- Building things that make messy problems a little easier
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/yuetong-liu-46793a391/) ·
+[Email](mailto:6uit6uit@gmail.com)
